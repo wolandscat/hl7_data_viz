@@ -1,0 +1,281 @@
+Id;Name
+210;QRDA Draft Standard for Trial Use, Release 3
+460;CDA IG for Genetic Testing Reports
+567;IG for CDA Release 2 - Level 3, Neonatal Care Report
+573;Emergency Care DAM Version 2
+728;HL7/IHE Health Story IG Consolidation
+770;HL7 Child Health Neonatology Profile for EHR Systems, v 1.0
+823;FHIR
+891;FHIR DSTU Ballot (Jira PSS-1955)
+902;V3 Nutrition Order Clinical Messages
+924;HL7 Care Coordination Service (CCS)
+922;Laboratory Order Interface IG (LOI IG) DSTU
+973;HL7 Version 2 IG:  Laboratory Test Compendium Framework, Release 2
+994;Develop FHIR resources for Financial Management
+995;Usability Guidelines for EHR Systems
+1002;HL7 CDA IG for National Medical Care Surveys
+1005;CDA Section for Digital Signatures and Delegation of Rights
+1007;HL7 over HTTP
+1009;V3 Food and Medication Preferences Clinical Messages
+1018;Decision Support Service IG
+1030;Virtual Medical Record for Clinical Decision Support (vMR-CDS)  Templates, Release 1 DSTU
+694;EDIS - Emergency Department Information System Functional Profile Version 2.0
+1050;HL7 Clinical Genomics Domain Information Model(s) (PSS in Confluence)
+1056;Version 2.x Example Verification and Management
+1068;Lab Order Logical Specification R1 (application to FHIR)
+1067;Lab Order Conceptual Specification R2
+1069;CDA IG for Ambulatory Healthcare Provider Reporting to Central Cancer Registries
+1093;Provenance for Clinical Document Architecture (CDA R2) IG
+1095;EHR-S Func Reqs Doc for Laboratory Interoperability Transactions - EHR-S Func Reqs IG for LRI
+1105;PCWG Develop FHIR resources and profiles for the Next STU release.
+1111;Essential Information for Children with Special Health Care Needs
+1112;HL7 CDA IG for Ambulatory Healthcare Provider Reporting to Birth Defect Registries
+1115;OO FHIR DSTU Monitoring and Maintenance
+1122;C-CDA on FHIR
+1125;Harmonization of Health Quality Information Models - FHIR
+1128;Patient Care FHIR resource review
+1139;Pharmacy Universal CDA Templates
+1142;CQL-based HQMF IG
+1146;Unified Conformance and Constraint Modeling (previously known as Refinement, Constraint and Localization, Release 3)
+1162;Value Set Maintenance and Stewardship
+1175;Clinical Decision Support Big Picture IG
+1180;Pilot WIKI Based Ballot Editing
+1181;Mobile Framework for Healthcare Adoption of Short-Message Technologies (mFHAST)
+1182;Consumer Mobile Health Application Functional Framework
+1217;Develop FHIR artifacts for clinical genomics
+1184;FHIR Ontology and RDF Resource Representation Project
+1192;HL7 IG(s) for CDA Release 2 & FHIR Release 4: Healthcare Associated Infection Reports (PSS in Confluence)
+1204;HL7 IG for CDA® Release 2: Personal Advance Care Plan Document, Release 1
+1209;Develop and maintain FHIR security resources
+1208;HL7 Version 2.6 IG: Vital Records Death Reporting, DSTU 2 (US Realm)
+1207;Develop and maintain FHIR Infrastructure resources
+1212;HL7 Attachments Supplemental Guide for the Exchange of C-CDA Based Documents -- IG DSTU Release 1
+1216;Public Health Case Report Update
+1225;Occupational Data for Health Data Elements and Structure for Consolidated CDA Social History Section
+1232;CDA and FHIR Pharmacist Care Plan IGs
+1234;HL7 FHIR IG: CDS Hooks, Release 1
+1239;HL7 Pharmacy FHIR Updates
+1260;Development and Maintenance of Immunization-related FHIR Resources
+1262;Definition of negation requirements for standards
+1274;HL7 CDA R2 Periodontal Attachment IG: Exchange of C-CDA Based Documents, Release 1 - US Realm
+1279;C-CDA R2.1 Guidance on Documenting UDI and associated data for Implantable Medical Devices (C-CDA R.1 Volume 3 Update)
+1290;Occupational Data for Health (ODH) Elements and Structure in HL7 V2 Messaging and FHIR
+1293;HL7 Version 2.8.2 IG: Immunization Messaging, Release 1 STU (US Realm)
+1294;Laboratory Results Interface IG
+1292;Specimen DAM Update
+816;HL7 Version 2.6 IG: Vital Records Birth and Fetal Death Reporting, Release 1, STU Release 2 - US Realm
+1153;Anesthesia (intra-procedure) Domain Analysis Model (DAM), Release 1
+1317;Care Team Domain Analysis Model
+1316;Integrated Information Models and Tools (IIM&T)
+1570;Data Elements for Emergency Department Systems Update and Revision (updated PSS on Confluence)
+1323;C-CDA R2.1 Volume 3 Update – Advance Directives Templates Clarifications
+1335;LOINC - IVD Test Code (LIVD) Mapping
+1342;Clinical Decision Support (CDS) for Immunizations FHIR IG
+1341;SMART Application Launch Framework
+1345;Validated Healthcare Directory IG
+981;Structured Docs WG 3-Year Plan Items
+1352;Podiatry Profile of EHR-S Functional Model V 2.01
+1366;FHIR Electronic Case Reporting (eCR)
+1363;Breast Cancer Modeling and FHIR Profile development
+1370;Transplant, Transfusion, and Grafts on FHIR
+1371;HL7 CDA R2 IG: C-CDA R2.1 Supplemental Templates for Nutrition, Release 1 (US Realm)
+1372;US FHIR Core Update to FHIR R4 (Jira PSS-1835)
+1376;C-CDA R2.1 Supplemental Templates for Infectious Disease
+1377;"Unified Terminology Governance Process (UTG); Working Prototype and Pilot (includes debugging, testing and Project Management) (ONC/Grant Project)"
+1380;Reference Domain Analysis Model (RDAM)
+1384;C-CDA 2.1 Implementation-A-Thons (IATs) for 2018-22 (ONC/Grant Project)
+1383;Improved FHIR Ballot Process and Tooling (ONC/Grant Project)
+1387;FHIR Connectathon Administrator (ONC/Grant Project)
+1390;Structured Data Capture Update (SDC)
+1405;Contextualized potential drug-drug interaction clinical decision support
+1392;FHIRcast: Application Context Synchronization in FHIR (PSS in Confluence)
+1394;Establish IGAMT as the HL7 V2 IG Publication Tool
+1398;HL7 CDA R2 IG: C-CDA R2.1 Supplemental Templates for Pregnancy Status, Release 1 - US Realm
+1402;HL7 CDA R2 Orthodontic Attachment IG, Release 1 - US Realm
+1401;HL7 V 2.5.1 IG for Syndromic Surveillance as a Standard for Trial Use
+1407;HL7 Health Service Reference Architecture (HL7-HSRA)
+1315;Imaging Integration 3-Year Plan
+1503;BRIDG Model Update  (BRIDG Release 5.3/HL7 BRIDG r5)  (v20190115v2.doc)
+1422;FHIR Resources for Evidence-Based Medicine Knowledge Assets (EBMonFHIR)
+1420;HL7 Cross Paradigm Model Transformation Service
+1424;Common Data Model Harmonization (CDMH) - FHIR IG
+1426;Women’s Health Technology Coordinated Registry Network (CRN)
+1425;CDISC Lab Semantics in FHIR (PSS in Confluence)
+1429;FHIR IG for Data Exchange for Quality Measures (Da Vinci Pjt)
+1428;FHIR IG for Coverage Requirements Discovery
+1431;Electronic Long-Term Services and Supports (eLTSS) Service Plan
+1433;Patient Reported Outcomes (PRO)
+1435;Harmonization of expression languages
+1437;Collaborative CDA Template Review Process Pilot
+1452;HL7 CMHAFF Normative Ballot (PSS in confluence)
+1453;IHE Digital Pathology Workflow Metadata Requirements (e.g. DICOM) to Specimen DAM mapping and HL7 product family use
+1475;Vital Records Mortality and Morbidity Reporting FHIR IG
+1477;Vital Records Death Reporting V2.6
+1481;v2-To-FHIR (PSS in Confluence)
+1436;Health Services Platform Marketplace
+1496;FHIR DME Orders (PSS in Confluence)
+1488;Targeted industry survey regarding US coverage requirements discovery for Durable Medical Equipment. (PSS in Confluence)
+1490;"Authorization Support (Da Vinci Pjt; PSS In Confluence)"
+1493;"Documentation Templates and Rules (Da Vinci pjt; PSS in Confluence)"
+1494;"Health Record Exchange (HRex) Framework (Da Vinci Pjt; PSS in Confluence)"
+1495;"Clinical Data Exchange (CDex) (Da Vinci Pjt; PSS in Confluence)"
+1502;ISO 13606-3/FHIR IG (PSS in Confluence)
+1497;Ballot the FHIR Bulk Data IG (ONC/Grant Project)
+1499;FHIR Quality Measure IG (PSS in Confluence)
+1504;Abstract Data Types R3
+1507;Mobile Health Work Group 3-Year Plan
+1505;Representation of Clinical Practice Guideline Recommendations in FHIR
+1521;Public Health WG 3-Year-Plan
+1509;Minimal Common Oncology Data Elements (mCODE) (PSS in Confluence)
+1511;HL7 IG for CDA® Release 2: National Healthcare Safety Network (NHSN) Healthcare Associated Infection (HAI) Reports for Long Term Care Facilities (HAI-LTCF-CDA)  and HL7 IG for FHIR® Release 4: NHSN Healthcare Associated Infection (HAI) Reports for Long Term Care F
+1591;Ballot Desktop and GoMembers Replacement
+1523;Flat FHIR (Bulk Data Access & Push) (ONC Grant Project)
+1515;"Payer Coverage Decision Exchange (Da Vinci project; PSS in Confluence)"
+1514;"Patient Cost Transparancy (Da Vinci project; PSS in Confluence)"
+1517;"Risk Based Contract Member Identification (Da Vinci project; PSS in Confluence)"
+1520;Consolidated CDA STU 2019 Update (Jira PSS-1834)
+1518;"Patient Data Exchange (Da Vinci project; PSS in Confluence)"
+1554;Da Vinci FHIR IG Review
+1525;International Patient Summary (IPS) IG (PSS In Confluence)
+1516;"Alerts (Da Vinci project; PSS in Confluence)"
+1526;"C-CDA Companion Guide update (PSS In Confluence; updates in Jira at Jira PSS-1833)"
+1489;"Payer Data Exchange (PDex) (Da Vinci Pjt; PSS in Confluence)"
+1527;"Tooling Catalog Annual Clean-up (PSS in Confluence; PSS Approvals in Jira as part of the pilot)"
+1530;"Abstract Transport Specification (ATS) update (PSS in Confluence; Approval in Jira Pilot - Jira PSS-1373)"
+1539;Laboratory Model / Profiles (PSS in Confluence)
+1584;Skin and Wound Assessment
+1542;Version 2 Quality Criteria (PSS in Confluence) (Part of Confluence PSS Approval Pilot)
+1535;HL7 CDS Hooks: Hook Definitions (PSS in Confluence)
+1533;Gender Harmony Project (PSS in Confluence)
+1532;Birth Defects DAM and FHIR IG (PSS in Confluence)
+1540;Single Institutional Review Board Project (sIRB)  (PSS in Confluence)
+1544;Conformance, Guidance and Best Practices for FHIR IGs (PSS in Confluence)
+1537;Pharmaceutical Quality/ Chemistry, Manufacturing and Controls (PQ/CMC) (PSS in Confluence)
+1538;CARIN Blue Button (PSS in Confluence)
+1585;Pain Assessment
+1541;Vital Signs (PSS in Confluence)
+1555;FHIR Terminology Server Support (ONC/Grant funded project)
+1549;FHIR Data Segmentation for Privacy (DS4P) IG (PSS in Confluence)
+1543;CARIN Consumer-facing Real-time Pharmacy Benefit Check (PSS in Confluence)
+1578;Vanguard
+1550;Anaesthesia Billing Support (PSS in Confluence)
+1556;Ballot & Publish IPS FHIR IG (ONC/Grant funded project)
+1491;VSD-compliant profile on FHIR value set resource
+1552;SHIFT PSS-lite (PSS in Confluence)
+1567;Gravity Project SDOH Data Elements FHIR IG (PSS in Confluence)
+1565;Centers for Medicare and Medicaid Services (CMS) Data Element Library (DEL) (PSS in Confluence)
+1572;PACIO Project Cognitive Status (PSS in Confluence)
+1571;PACIO Project Functional Status (PSS in Confluence)
+1575;Vital Records Reporting Domain Analysis Model R4 (PSS in Confluence)
+1576;Consolidated Conformance Website (PSS in Confuence)
+1501;Reducing Clinician Burden
+1600;Cross Paradigm CUI 32 CFR Part 2002, 42 CFR Part 2, and Title 38 Section 7332 Security Labeling IGs (PSS in Confluence)
+1598;FHIR-Based Quality Reporting White Paper
+1607;Military Service History and Status FHIR Profiles (PSS in Confluence)
+1599;Application Data Exchange Assessment Framework and Functional Requirements for Mobile Health (PSS in Confluence)
+1588;FHIR Build and IG (IG) Publishing (ONC/Grant funded project)
+1597;SMART Web Messaging (PSS in Confluence)
+1553;Dental Data Exchange (CDA and FHIR) PSS
+1618;Multiple Chronic Conditions (MCC) Dynamic Electronic Care Planning and Management FHIR IG (PSS in Confluence)
+1609;Patient Medication List Guidance (PSS in Confluence)
+1573;Specialty Medication Prescribing (PSS in Confluence)
+1610;Skin Wound Assessment FHIR IG (PSS in Confluence)
+1611;Making EHR Data More Available for Research and Public Health (MedMorph) Reference Architecture HL7 FHIR IG (PSS in Confluence)
+1608;Marketplace Product Packaging and Metadata (PSS in Confluence)
+1613;Accounts, Payments and Statements (Jira PSS-1618)
+1617;Situation Awareness for Novel Epidemic Response (SANER) FHIR IG (PSS in Confluence)
+1626;FHIR Registry Enhancements and Support (ONC/Grant funded project)
+1615;Gemini SDPi+FHIR White Papers (Jira PSS 1652)
+1620;COVID 19 FHIR IG (PSS in Confluence)
+1616;Vital Records Birth and Fetal Death Reporting FHIR  (PSS in Confluence)
+1627;Consolidated Clinical Document Architecture (C-CDA) Web Publication Tooling - Phase 2 (ONC/Grant funded project)
+1634;HL7 Cross Paradigm Specification Laboratory Ask at Order Entry (AOE), US Realm (PSS in Confluence)
+1614;HL7 FHIR IG (IG) for the Nutrition Care Process (PSS in Confluence)
+1632;Occupational Data for Health (ODH) Domain Analysis Model (DAM)  (PSS in Confluence)
+1635;KSA Healthcare Financial Services IG (PSS in Confluence)
+1631;Diagnostic Audiology Reporting HL7 V2 IG (PSS in Confluence)
+1639;US Core (ONC/Grant Funded Project)
+1636;FHIR to CDASH (PSS in Confluence)
+1643;Vital Records Common FHIR Profile Library
+1642;Backporting R5 Subscriptions to R4 as an IG
+1644;FHIR IG for Transfusion and Vaccination Adverse Event Reporting
+1645;Patient Request for Corrections FHIR IG Project (PSS in Confluence)
+1646;Patient Contributed Data Whitepaper
+1651;FAIRness for FHIR (PSS in Confluence)
+1656;Uniform Structure and Coding Elements for Prior Authorization
+1534;SOA Work Group - 3-Year Plan
+1650;Ophthalmology Retina Module IG (PSS in Confluence)
+1652;PACIO: Advance Directives Interoperability (in FHIR)
+1661;HL7 Operational Support
+1654;NHSN Inpatient Medication Administration Reports (NHSN-Medication-Administration-FHIR) (HL7 IG for FHIR Release 4)
+1655;NHSN Adverse Drug Event-Hypoglycemia Report (NHSN-ADE-Hypoglycemia-FHIR) (HL7 IG for FHIR R4)
+1653;FAST Exchange Metadata Using RESTful Headers
+1010;Ordering Service Interface Specification Project
+1668;Reaffirmation:  HL7 Version 3 Standard: Transmission Infrastructure, Release 2
+1672;Withdraw HL7 Version 3 Standard: Clinical Statement CMETs, Release 1
+1681;US Realm Program Manager (COVID/US Realm ONC/Grant Contract project)
+1680;Extract Clinical Notes (COVID/PH ONC/Grant funded project)
+1704;FHIR IG: Migrate from Structured Product Labeling V3 to a FHIR-based submission (PSS in Confluence)
+1682;US Realm Steering Committee Senior Advisor (COVID/US Realm ONC/Grant Contract project)
+1695;Developing, Advancing and Harmonizing Social Determinants of Health (SDOH) Standards (COVID/Public Health ONC/Grant project)
+1589;FHIR Survey (ONC/Grant funded project)
+1690;National Healthcare Directory
+1679;Clinical Domains (COVID/PH ONC/Grant funded project)
+1683;Subject Matter Experts (SMEs): Landscape Assessment/Gap Analysis: Security & Privacy and Public Health Standards (COVID/PH ONC/Grant funded project)
+1700;IHE SDC/eCC on FHIR
+1686;HL7 FHIR IG: Cancer Electronic Pathology Reporting (Jira PSS-1688)
+1687;Integrated Trial Matching for Cancer Patients and Providers (Jira PSS-1686)
+1689;FHIR at Scale (FAST): Scalable Registration, Authentication, and Authorization for FHIR Ecosystem Participants
+1691;PACIO FHIR Profile - Re-assessment Timepoint (Jira PSS-1712)
+1692;Radiation Dose Summary for Diagnostic Procedures on FHIR (Jira PSS-1716)
+1693;CDA IG Web Publishing (Jira PSS-1684)
+1513;"FHIR Risk Adjustment (Da Vinci Project; PSS in Confluence)"
+1699;Care Team Domain Analysis Model Version 2 (PSS in Confluence)
+1694;SMART Health Cards: Vaccination & Testing IG (Jira PSS-1783)
+1697;CARIN IG for Digital Insurance Card
+1703;Transfer Value Sets to HL7 Analysis (ONC/Grant project)
+1702;BR and R FHIR Resource Maintenance
+1720;Clinical Registry Extraction and Data Submission (CREDS) IG
+1707;DICOM SR to FHIR Resource Mapping IG
+1715;Reaffirmation: HL7 Version V3 GELLO IG: Clinical Decision Support, Model Definition Language for GELLO, Release 1
+1712;Reaffirmation: HL7 Version 3 Domain Analysis Model: Diet and Nutrition Orders, Release 2
+1717;Improving identity assurance and patient match quality through interoperable Digital Identity and Patient Matching capabilities
+1718;POLST CDA IG (COVID/Public Health ONC/Grant project)
+1725;US Realm Content Administrator (aka Content Curator) (COVID/US Realm ONC Contract)
+1721;Project to increase consistency & quality of FHIR-authored IGs (Jira PSS-1807)
+1732;C-CDA to and from FHIR Structural Mapping (Jira PSS-1811)
+1277;FHIR for Device Data Reporting
+1728;Problem Oriented Health Record (POHR)
+1674;Withdrawal:  HL7 Version 3 Standard: Patient Administration CMETs, Release 1
+1673;"Withdrawal: HL7 Version 3 Standard: Patient Administration; Patient Encounter, Release 1"
+1675;"Withdrawal: HL7 Version 3 Standard: Registries; Real Time Location Tracking, Release 1"
+1729;International Patient Summary Advocate (ONC/Grant project)
+1730;US Realm Dashboard Developer (COVID/US Realm ONC Contract)
+1731;PACIO Project: Speech, Language, Swallowing, Cognitive Communication, and Hearing (SPLASCH)
+1733;HL7 Unique Mobile Health App Identifier (UMHAI) (Jira PSS-1867)
+1118;Arden Syntax for Medical Logic Systems v3.0
+1736;Longitudinal Maternal & Infant Health Information for Research - FHIR R4 IG (Jira PSS-1832)
+1734;Informative standard withdrawal - multiple projects
+1737;HL7 Medicolegal Death Investigation (MDI) FHIR IG (Jira PSS-1885)
+1740;HL7 Systems Engineer
+1735;Normative withdrawal project placeholder
+1738;Gender Harmony Support (ONC/Grant project)
+1741;Logica Sandbox
+1688;Pediatric Care Health IT Functional Profile (PSS in Confluence)
+1742;At-Home Test Report (Jira PSS-1892)
+1743;Consultant Pharmacist Consult Note update (Jira PSS-1884)
+1745;Radiation Therapy Treatment Data (Jira PSS-1903)
+1746;CHOICE Guideline for the use of a Fetal Resource
+1744;ICHOM breast cancer patient-centered outcome measure set FHIR IG
+1753;5-year expiration approaching: HL7 Version 3 Standard: Transport Specifications - ebXML, Release 1
+1751;Withdraw: HL7 Version 3 Standard: Claims and Reimbursement, Release 4
+1752;"5-year expiration approaching: HL7 Version 3 Standard: Clinical Genomics; Pedigree, Release 1"
+1748;5-year expiration approaching: HL7 Version 2: XML Encoding Rules, Release 2
+1750;Withdraw: HL7 Version 3 Standard: Accounting & Billing, Release 2
+1747;5-year expiration approaching: HL7 Version 3 Standard: Transport Specification - ebXML Using eb MS2.0. Release 1
+1749;Reaffirm: HL7 Version 3 Standard: Representation of the Health Quality Measures Format (eMeasure), Release 1
+1754;FHIR IG for Intra-Procedural Anesthesia Records (Jira PSS 1936)
+1758;CDS Hooks, evaluate hook maturity, ballot hooks (Jira PSS 1964)
+1757;Content Management Infrastructure IG (Jira PSS 1959)
+1756;Extended RBC Phenotyping-genotyping FHIR IG (Jira PSS 1942)
+1755;FHIR IG & C-CDA Supplemental Guide for Medical Record Reviews (Jira PSS 1939)

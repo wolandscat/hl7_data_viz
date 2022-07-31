@@ -1,0 +1,463 @@
+Source;Target;Weight
+210;QRDA;1.0
+210;DSTU;1.0
+460;CDA IG;1.0
+460;CDA;1.0
+567;CDA;1.0
+573;Emergency Department;1.0
+573;DAM;1.0
+728;Health Story;1.0
+728;IHE;1.0
+770;Child Health;1.0
+770;Neonatology;1.0
+823;NONE;1.0
+891;Ballot;1.0
+891;DSTU;1.0
+902;Nutrition;1.0
+924;Care Coordination;1.0
+922;Laboratory;1.0
+922;DSTU;1.0
+973;Laboratory;1.0
+973;HL7v2;1.0
+973;HL7v2 IG;1.0
+994;Financial Management;1.0
+995;Usability;1.0
+995;Guide;1.0
+1002;CDA IG;1.0
+1002;CDA;1.0
+1005;CDA;1.0
+1007;NONE;1.0
+1009;NONE;1.0
+1018;NONE;1.0
+1030;CDS;1.0
+1030;DSTU;1.0
+1030;vMR;1.0
+1030;Templates;1.0
+694;Emergency Department;1.0
+1050;Genomics;1.0
+1056;NONE;1.0
+1068;Lab Order;1.0
+1067;Lab Order;1.0
+1069;Registry;1.0
+1069;Cancer;1.0
+1069;CDA IG;1.0
+1069;CDA;1.0
+1093;Provenance;1.0
+1093;CDA;1.0
+1095;Laboratory;1.0
+1095;Interoperability;1.0
+1095;EHR-S;1.0
+1105;NONE;1.0
+1111;Children;1.0
+1112;Registry;1.0
+1112;CDA IG;1.0
+1112;CDA;1.0
+1115;DSTU;1.0
+1122;CDA on FHIR;1.0
+1122;C-CDA;1.0
+1122;C-CDA on FHIR;1.0
+1122;CDA;1.0
+1125;NONE;1.0
+1128;Patient Care;1.0
+1139;Pharmacy;1.0
+1139;CDA;1.0
+1139;Templates;1.0
+1142;NONE;1.0
+1146;Conformance;1.0
+1162;Value Set;1.0
+1175;CDS;1.0
+1180;Ballot;1.0
+1181;mFHAST;1.0
+1182;Mobile Health;1.0
+1182;Application;1.0
+1217;NONE;1.0
+1184;Ontology;1.0
+1192;Infection;1.0
+1192;CDA;1.0
+1204;Advance Care Plan;1.0
+1204;CDA IG;1.0
+1204;CDA;1.0
+1209;NONE;1.0
+1208;Vital Records;1.0
+1208;HL7v2;1.0
+1208;DSTU;1.0
+1207;NONE;1.0
+1212;Attachments;1.0
+1212;C-CDA;1.0
+1212;CDA;1.0
+1212;DSTU;1.0
+1212;Guide;1.0
+1216;Public Health;1.0
+1225;Occupational;1.0
+1225;C-CDA;1.0
+1225;CDA;1.0
+1232;Pharmacy;1.0
+1232;CDA;1.0
+1234;CDS;1.0
+1234;FHIR IG;1.0
+1234;CDS Hooks;1.0
+1239;Pharmacy;1.0
+1260;Immunization;1.0
+1260;FHIR Resources;1.0
+1262;negation;1.0
+1274;Periodontal;1.0
+1274;C-CDA;1.0
+1274;CDA;1.0
+1279;Medical Devices;1.0
+1279;C-CDA;1.0
+1279;CDA;1.0
+1290;Occupational;1.0
+1293;Immunization;1.0
+1293;HL7v2;1.0
+1294;Laboratory;1.0
+1292;Specimen;1.0
+1292;DAM;1.0
+816;Fetal Death;1.0
+816;Vital Records;1.0
+816;HL7v2;1.0
+1153;Anesthesia;1.0
+1153;DAM;1.0
+1317;Care Team;1.0
+1317;DAM;1.0
+1316;Tooling;1.0
+1570;Emergency Department;1.0
+1323;Advance Directives;1.0
+1323;C-CDA;1.0
+1323;CDA;1.0
+1323;Templates;1.0
+1335;LOINC;1.0
+1342;Immunization;1.0
+1342;CDS;1.0
+1342;FHIR IG;1.0
+1341;Application;1.0
+1341;SMART;1.0
+1345;NONE;1.0
+981;3-Year Plan;1.0
+1352;Podiatry;1.0
+1352;EHR-S;1.0
+1366;Case Reporting;1.0
+1363;Cancer;1.0
+1370;Transfusion;1.0
+1370;Transplant;1.0
+1371;Nutrition;1.0
+1371;CDA IG;1.0
+1371;C-CDA;1.0
+1371;CDA;1.0
+1371;Templates;1.0
+1372;NONE;1.0
+1376;Infectious Disease;1.0
+1376;C-CDA;1.0
+1376;CDA;1.0
+1376;Templates;1.0
+1377;Terminology;1.0
+1380;DAM;1.0
+1384;C-CDA;1.0
+1384;CDA;1.0
+1383;Ballot;1.0
+1383;Tooling;1.0
+1387;Connectathon;1.0
+1390;Structured Data Capture;1.0
+1405;CDS;1.0
+1392;Application;1.0
+1392;FHIRcast;1.0
+1394;Publishing;1.0
+1398;CDA IG;1.0
+1398;C-CDA;1.0
+1398;CDA;1.0
+1398;Templates;1.0
+1402;Orthodontic;1.0
+1402;CDA;1.0
+1401;Trial;1.0
+1401;Syndromic Surveillance;1.0
+1401;HL7v2;1.0
+1401;HL7v2 IG;1.0
+1407;HL7-HSRA;1.0
+1315;Imaging;1.0
+1315;3-Year Plan;1.0
+1503;BRIDG;1.0
+1422;Evidence-Based Medicine;1.0
+1422;FHIR Resources;1.0
+1420;Cross Paradigm;1.0
+1424;FHIR IG;1.0
+1424;Common Data Model;1.0
+1426;Registry;1.0
+1426;Womens Health;1.0
+1425;CDISC;1.0
+1429;FHIR IG;1.0
+1428;FHIR IG;1.0
+1431;eLTSS;1.0
+1433;Patient Reported Outcomes;1.0
+1435;expression languages;1.0
+1437;CDA;1.0
+1452;CMHAFF;1.0
+1452;Ballot;1.0
+1453;Pathology;1.0
+1453;Specimen;1.0
+1453;DAM;1.0
+1453;DICOM;1.0
+1453;IHE;1.0
+1475;Vital Records;1.0
+1475;FHIR IG;1.0
+1477;Vital Records;1.0
+1481;v2-To-FHIR;1.0
+1436;Health Services;1.0
+1496;DME;1.0
+1488;Medical Equipment;1.0
+1490;Authorization;1.0
+1493;Documentation;1.0
+1493;Templates;1.0
+1494;HRex;1.0
+1495;CDex;1.0
+1502;FHIR IG;1.0
+1502;ISO 13606;1.0
+1497;Ballot;1.0
+1497;Bulk Data;1.0
+1499;NONE;1.0
+1504;Data Types;1.0
+1507;Mobile Health;1.0
+1507;3-Year Plan;1.0
+1505;Guide;1.0
+1505;Clinical Practice Guideline;1.0
+1521;Public Health;1.0
+1509;Oncology;1.0
+1511;Infection;1.0
+1511;CDA IG;1.0
+1511;FHIR IG;1.0
+1511;CDA;1.0
+1591;Ballot;1.0
+1523;Bulk Data;1.0
+1515;Payer;1.0
+1514;NONE;1.0
+1517;NONE;1.0
+1520;C-CDA;1.0
+1520;CDA;1.0
+1518;NONE;1.0
+1554;FHIR IG;1.0
+1525;IPS;1.0
+1525;Patient Summary;1.0
+1516;Alerts;1.0
+1526;C-CDA;1.0
+1526;CDA;1.0
+1526;Guide;1.0
+1489;Payer;1.0
+1527;Tooling;1.0
+1530;Transport;1.0
+1539;Laboratory;1.0
+1584;Skin;1.0
+1584;Wound;1.0
+1542;NONE;1.0
+1535;CDS;1.0
+1535;CDS Hooks;1.0
+1533;Gender Harmony;1.0
+1532;Birth Defects;1.0
+1532;FHIR IG;1.0
+1532;DAM;1.0
+1540;sIRB;1.0
+1544;FHIR IG;1.0
+1544;Conformance;1.0
+1537;Pharmaceutical Quality;1.0
+1538;CARIN;1.0
+1538;Blue Button;1.0
+1585;Pain;1.0
+1541;Vital Signs;1.0
+1555;Terminology;1.0
+1549;Privacy;1.0
+1543;Pharmacy;1.0
+1543;CARIN;1.0
+1578;Vanguard;1.0
+1550;Anesthesia;1.0
+1556;IPS;1.0
+1556;Ballot;1.0
+1556;FHIR IG;1.0
+1491;NONE;1.0
+1552;SHIFT;1.0
+1567;SDOH;1.0
+1567;FHIR IG;1.0
+1565;Medicare;1.0
+1565;Medicaid;1.0
+1572;PACIO;1.0
+1571;PACIO;1.0
+1575;Vital Records;1.0
+1575;DAM;1.0
+1576;Conformance;1.0
+1501;Burden;1.0
+1600;Security;1.0
+1600;Cross Paradigm;1.0
+1598;Quality Reporting;1.0
+1598;White Paper;1.0
+1607;Military Service;1.0
+1599;Mobile Health;1.0
+1599;Application;1.0
+1588;Publishing;1.0
+1597;SMART;1.0
+1553;Dental;1.0
+1553;CDA;1.0
+1618;Chronic;1.0
+1618;FHIR IG;1.0
+1609;NONE;1.0
+1573;Prescribing;1.0
+1610;Skin;1.0
+1610;Wound;1.0
+1610;FHIR IG;1.0
+1611;Public Health;1.0
+1611;MedMorph;1.0
+1611;FHIR IG;1.0
+1608;Product Packaging;1.0
+1613;NONE;1.0
+1617;SANER;1.0
+1617;FHIR IG;1.0
+1626;Registry;1.0
+1615;White Paper;1.0
+1620;FHIR IG;1.0
+1616;Fetal Death;1.0
+1616;Vital Records;1.0
+1627;C-CDA;1.0
+1627;CDA;1.0
+1627;Tooling;1.0
+1627;Publishing;1.0
+1634;Laboratory;1.0
+1634;Order Entry;1.0
+1634;Cross Paradigm;1.0
+1614;Nutrition;1.0
+1614;FHIR IG;1.0
+1632;Occupational;1.0
+1632;DAM;1.0
+1635;Financial Services;1.0
+1631;Audiology;1.0
+1639;US Core;1.0
+1636;CDA;1.0
+1636;CDASH;1.0
+1643;Vital Records;1.0
+1642;NONE;1.0
+1644;Transfusion;1.0
+1644;Vaccination;1.0
+1644;FHIR IG;1.0
+1645;FHIR IG;1.0
+1646;NONE;1.0
+1651;FAIR;1.0
+1656;Prior Authorization;1.0
+1656;Authorization;1.0
+1534;SOA;1.0
+1534;3-Year Plan;1.0
+1650;Ophthalmology;1.0
+1652;Advance Directives;1.0
+1652;PACIO;1.0
+1652;Interoperability;1.0
+1661;Operational Support;1.0
+1654;FHIR IG;1.0
+1655;FHIR IG;1.0
+1653;FAST;1.0
+1010;Ordering;1.0
+1668;Reaffirmation;1.0
+1668;HL7v3;1.0
+1672;HL7v3;1.0
+1681;NONE;1.0
+1680;Clinical Notes;1.0
+1704;Product Labeling;1.0
+1704;FHIR IG;1.0
+1682;NONE;1.0
+1695;Public Health;1.0
+1695;SDOH;1.0
+1589;NONE;1.0
+1690;National Healthcare Directory;1.0
+1679;NONE;1.0
+1683;Public Health;1.0
+1683;Security;1.0
+1683;Privacy;1.0
+1700;IHE;1.0
+1686;Pathology;1.0
+1686;Cancer;1.0
+1686;FHIR IG;1.0
+1687;Trial;1.0
+1687;Cancer;1.0
+1689;Authorization;1.0
+1689;FAST;1.0
+1691;PACIO;1.0
+1692;Radiology;1.0
+1693;CDA IG;1.0
+1693;CDA;1.0
+1693;Publishing;1.0
+1513;NONE;1.0
+1699;Care Team;1.0
+1699;DAM;1.0
+1694;Vaccination;1.0
+1694;SMART;1.0
+1697;CARIN;1.0
+1703;Value Set;1.0
+1702;NONE;1.0
+1720;Registry;1.0
+1707;DICOM;1.0
+1715;Reaffirmation;1.0
+1715;CDS;1.0
+1715;GELLO;1.0
+1712;Nutrition;1.0
+1712;Diet;1.0
+1712;Reaffirmation;1.0
+1712;DAM;1.0
+1712;HL7v3;1.0
+1717;Identity;1.0
+1718;Public Health;1.0
+1718;CDA IG;1.0
+1718;CDA;1.0
+1725;NONE;1.0
+1721;NONE;1.0
+1732;C-CDA;1.0
+1732;CDA;1.0
+1277;NONE;1.0
+1728;NONE;1.0
+1674;Patient Administration;1.0
+1674;HL7v3;1.0
+1674;withdraw;1.0
+1673;Patient Administration;1.0
+1673;HL7v3;1.0
+1673;withdraw;1.0
+1675;Registry;1.0
+1675;HL7v3;1.0
+1675;withdraw;1.0
+1729;Patient Summary;1.0
+1730;NONE;1.0
+1731;SPLASCH;1.0
+1731;PACIO;1.0
+1733;Mobile Health;1.0
+1118;Arden Syntax;1.0
+1736;Maternity;1.0
+1734;withdraw;1.0
+1737;Medicolegal;1.0
+1737;FHIR IG;1.0
+1740;NONE;1.0
+1735;withdraw;1.0
+1738;Gender Harmony;1.0
+1741;NONE;1.0
+1688;Pediatric;1.0
+1742;NONE;1.0
+1743;Pharmacy;1.0
+1745;Radiology;1.0
+1746;Guide;1.0
+1744;FHIR IG;1.0
+1753;Transport;1.0
+1753;HL7v3;1.0
+1751;Claims;1.0
+1751;Reimbursement;1.0
+1751;HL7v3;1.0
+1752;Genomics;1.0
+1752;HL7v3;1.0
+1748;HL7v2;1.0
+1748;XML Encoding;1.0
+1750;Accounting & Billing;1.0
+1750;HL7v3;1.0
+1747;Transport;1.0
+1747;HL7v3;1.0
+1749;HL7v3;1.0
+1754;Anesthesia;1.0
+1754;FHIR IG;1.0
+1758;CDS;1.0
+1758;CDS Hooks;1.0
+1757;Infrastructure IG;1.0
+1756;Genomics;1.0
+1756;Phenotyping;1.0
+1756;FHIR IG;1.0
+1755;Medical Record;1.0
+1755;FHIR IG;1.0
+1755;C-CDA;1.0
+1755;CDA;1.0
+1755;Guide;1.0
