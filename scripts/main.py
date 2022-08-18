@@ -57,6 +57,10 @@ def get_artefact_matches(a_str):
     return get_matches(a_str, dt.artefacts, 'NONE')
 
 
+def get_funder_matches(a_str):
+    return get_matches(a_str, dt.funders, 'NONE')
+
+
 # -------------------- main --------------------
 # Read the file
 data = pd.read_csv(input_dir + "hl7_source.csv", sep=';', low_memory=False)
@@ -126,7 +130,8 @@ proj_type['Weight'] = 1.0
 
 # ========= generate various Nodes & Edges file sets ==========
 
-# Projects as nodes, with a 'Cat' (category) field
+# Projects as nodes, add a 'Cat' (category) field to mark them
+# as projects
 proj_nodes = lp[['Id', 'Label']].copy()
 proj_nodes.drop_duplicates(inplace=True)
 proj_nodes['Cat'] = 'project'
@@ -149,7 +154,7 @@ lib.generate_nodes_edges(proj_facilitator, proj_nodes, graph_output_dir)
 # Projs x Type Nodes & Edges
 lib.generate_nodes_edges(proj_type, proj_nodes, graph_output_dir)
 
-# ======== do some analysis on project name field =========
+# ======== Topic analysis on project name field =========
 
 # output just project names col, to create a text corpus
 proj_names_df = lp[['Id', 'Name']].copy()
@@ -169,3 +174,18 @@ match_df['Weight'] = 1.0
 match_df.to_csv(output_dir + "proj_names_topics.csv", sep=';', index=False)
 # Projs x topics Nodes & Edges
 lib.generate_nodes_edges(match_df, proj_nodes, graph_output_dir)
+
+
+# ====== External funder (ONC / DaVinci / None) analysis on project name field =======
+
+# create a external funder DF -add a column for Funder and default to NONE
+match_df = proj_names_df.copy()
+match_df['Name'] = match_df['Name'].transform(get_funder_matches)
+match_df = match_df.explode('Name')
+match_df.rename(columns={'Name': 'Funder'}, inplace=True)
+match_df['Weight'] = 1.0
+
+match_df.to_csv(output_dir + "proj_names_funders.csv", sep=';', index=False)
+# Projs x funders Nodes & Edges
+lib.generate_nodes_edges(match_df, proj_nodes, graph_output_dir)
+

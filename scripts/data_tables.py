@@ -159,5 +159,5 @@ artefacts = ['Arden Syntax', 'Ballot', 'Transport',
             'Documentation', 'expression languages', 'Common Data Model', 'FHIRcast',
             'Templates', 'Connectathon', '3-Year Plan', 'mFHAST']
 
-proj_sponsors = ['ONC', 'DaVinci']
+funders = ['ONC', 'DaVinci']
 
