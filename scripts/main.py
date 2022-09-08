@@ -117,7 +117,7 @@ proj_co_sponsors['Weight'] = 1.0
 
 # Generate dataframe {proj_id, products}
 proj_products = lib.dataframe_view(source_data_frame=lp, col_name='Products', sep=';',
-                                   string_dict=dt.product_short_names)
+                                   string_dict=dt.product_short_names, other_tag='Other')
 proj_products['Weight'] = 1.0
 
 # Generate dataframe {proj_id, facilitator}

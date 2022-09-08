@@ -12,13 +12,13 @@ import pandas as pd
 # less voluminous in the visualisation tool - the string_dict parameter
 # may be supplied in this case
 #
-def dataframe_view(source_data_frame, col_name, replace_empty=True, explode=True, sep=',', string_dict=None):
+def dataframe_view(source_data_frame, col_name, replace_empty=True, explode=True, sep=',', string_dict=None, other_tag='UNK'):
     # initial extract
     result = source_data_frame[['Id', col_name]].copy()
 
     # fill right-hand col with 'UNK' if empty, ,or else remove rows with empty RH col
     if replace_empty:
-        result.fillna(value='UNK', inplace=True)
+        result.fillna(value=other_tag, inplace=True)
     else:
         result.dropna(axis=0, how='any', inplace=True)
 
